@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/react';
 import HeaderBar from "./_components/header";
 import FooterBar from "./_components/footer";
 
@@ -16,6 +17,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
 				{children}
 				<FooterBar />
+				<Analytics />
 			</body>
     </html>
   );
