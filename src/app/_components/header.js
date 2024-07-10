@@ -9,7 +9,7 @@ export default function HeaderBar() {
 
 			</div>
 			<div>
-				Dekka's Tarts
+				Dekka&apos;s Tarts
 			</div>
 			<div className='flex flex-row w-[100px]'>
 				{/* <div className="m-2"><Link href="/recipes/">Recipes</Link> </div>
