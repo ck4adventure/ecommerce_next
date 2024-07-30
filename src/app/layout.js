@@ -7,7 +7,7 @@ import FooterBar from "./_components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Dekka's Tarts",
+  title: "Dekka's Tarts and Sweets",
   description: "Tarts and More ecommerce via Nextjs",
 };
 
