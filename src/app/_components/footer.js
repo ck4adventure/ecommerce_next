@@ -6,7 +6,6 @@ export default function FooterBar() {
 			<a href="https://www.instagram.com/dekkastarts" className="text-xs flex items-center">
 				<Image className="inline-block m-1" height="10" width="10" src='/Instagram_Glyph_Gradient.png' alt="instagram icon" />
 				<div>dekkastarts</div>
-				<div>yeah</div>
 			</a>
 		</div>
 	);
